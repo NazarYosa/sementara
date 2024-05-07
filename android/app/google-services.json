@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121178413368",
+    "project_id": "learn-flutter-3e7e8",
+    "storage_bucket": "learn-flutter-3e7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121178413368:android:f632c99422462c9576c9cd",
+        "android_client_info": {
+          "package_name": "com.example.praktikum6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUFROonHmOoRTDAoioec8x3_rBmzWLSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
